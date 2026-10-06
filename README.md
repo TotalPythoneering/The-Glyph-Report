@@ -1,5 +1,5 @@
 # The-Glyph-Report
-Pythoneering the "Non-linguisting" Glyph Set
+Pythoneering Unicode's "Non-linguistic" Glyph Set
 
 When my 2 year old Dell Inspiration died last week, so too did the easy cut-and-paste access to Unicode via Windows 11.
 
